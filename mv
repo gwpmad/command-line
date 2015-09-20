@@ -1,0 +1,3 @@
+The -mv shell command is used to move a file from one directory to another. To use it, write:
+
+mv [file name] [directory name]
