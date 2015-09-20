@@ -1,0 +1,4 @@
+The wc command counts elements in specified files: the word count (after which the command is originally named), the number of newlines and the number of bytes (characters). To use:
+
+wc [file name]
+Adding -l (for example) will show you only the newline count, and adding -w means the output will include only the word count.
