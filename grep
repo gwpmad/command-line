@@ -1,0 +1,5 @@
+The grep command searches a given file or directory for a text string. To use:
+
+grep [string to search for][directory or file to search in]
+
+Regular expressions like wildcards can also be used, e.g. *.txt as the directory argument.
